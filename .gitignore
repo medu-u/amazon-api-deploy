@@ -1,2 +1,9 @@
-.env
 node_modules
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.sln
+*.sw?
+.env
